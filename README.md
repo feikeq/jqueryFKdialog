@@ -22,7 +22,7 @@
     <!-- jQuery 公共资源库CDN -->
     <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
     <!-- 肥客极简模式响应式jQuery对话框 JS 文件 -->
-    <script src="/js/jq_dn_dialog.min.js"></script>
+    <script src="jqueryFKdialog.min.js"></script>
     ```
 
 ### 2. 通过事件响应 （一般常见的 按扭、图片、链接等...）
